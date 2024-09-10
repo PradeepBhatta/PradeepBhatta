@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pradeep.
-- 👀 I’m interested in AI.
+- 👀 I’m interested in .
 - 🌱 I’m currently exploring.
 - 💞️ I’m looking to collaborate on building some computer vision projects.
-- 📫 Contact me via bhatta.pradeep425@gmail.com
+- 📫 Contact me via email: bhatta.pradeep425@gmail.com
