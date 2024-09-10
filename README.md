@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @PradeepBhatta.
-- 👀 I’m interested in Python.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on Nothing.
-- 📫 How to reach me: bhatta.pradeep425@gmail.com
+- 👋 Hi, I’m Pradeep.
+- 👀 I’m interested in AI.
+- 🌱 I’m currently exploring.
+- 💞️ I’m looking to collaborate on building some computer vision projects.
+- 📫 Contact me via bhatta.pradeep425@gmail.com
