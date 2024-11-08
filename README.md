@@ -28,8 +28,8 @@ If you’re interested in teaming up for a project, feel free to reach out!
 
 ## 📫 Get in Touch
 - **Email**: [bhatta.pradeep425@gmail.com](mailto:bhatta.pradeep425@gmail.com)
-- **LinkedIn**: [https://www.linkedin.com/in/pradeep-bhatta-204166241/]
-- **Portfolio**: [https://pradeepbhatta.github.io/Pradeep_Bhatta/]
+- **LinkedIn**: https://www.linkedin.com/in/pradeep-bhatta-204166241/
+- **Portfolio**: https://pradeepbhatta.github.io/Pradeep_Bhatta/
 
 ---
 
